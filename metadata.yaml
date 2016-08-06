@@ -1,0 +1,28 @@
+_repo: The-Village-in-the-Mountains--Conversion-of-Peter-Bayssi-re--and-History-of-a-Bible_10831
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wilder, Sampson Vryling Stoddard
+    aliases:
+    - Wilder, Samson Vryling Stoddard
+    - Wilder, S. V. S. (Sampson Vryling Stoddard)
+    birthdate: 1780
+    deathdate: 1865
+    gutenberg_agent_id: '38865'
+    url: http://www.gutenberg.org/2009/agents/38865
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10831'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Bible -- Publication and distribution'
+- GITenberg
+title: The Village in the Mountains; Conversion of Peter Bayssière; and History of
+  a Bible
+url: http://www.gutenberg.org/ebooks/10831
